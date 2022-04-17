@@ -1,0 +1,52 @@
+@charset "utf-8";
+body{
+	background-image: url("arquitectura.png");
+}
+h2{
+	background-color: #5c8a8a;
+	color: goldenrod;
+	text-align: center;
+	font-family: w3-cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
+h1 {
+	padding: 60px;
+	text-align: center;
+	background: #1f2e2e;
+	color: white;
+	font-size: 40 px;
+}
+p{
+	font-family: sans-serif;
+	border-style: solid;
+	background: #85adad;
+	border-color: #b3cccc;
+	text-align: center;
+	
+	
+	
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	image-align:center;
+	width: 350px;	
+}
+a {
+	text-align: left;
+	color: white;
+	background-color: #b3b300;
+	padding: 10px 20px;
+	display: inline-block;
+}	
+
+a:hover{
+	background-color: #ffff00;
+	text-decoration: underline;
+
+}
+
+

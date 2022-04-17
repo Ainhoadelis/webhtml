@@ -1,0 +1,41 @@
+﻿@charset "utf-8";
+body {
+	background-image: url("puentebrooklynfondo.png");
+}
+h1 {
+	text-align: center;
+	border-top-style: dotted;
+	border-right-style: solid;
+	border-bottom-style:dotted;
+	border-left-style;
+	background-color:#ffccff;
+	border-color: #4d004d;
+}
+h2{
+	text-align: center;
+	border-bottom: 6px solid red;
+	background-color:#ffe6f9;
+	border-color: #b300b3;
+}
+p{
+	text-align: center;
+	background-color:#ffe6f9;
+	border-style: solid;
+}
+
+table, th, td {
+	background-color:#ffb3ec;
+	padding: 5px;
+	text-align: left;
+	border: 1px solid;
+	text-align: center;
+	border-radius: 15px 50px 30px;
+	width:700px;
+	}
+video {
+	column-fill:balance;
+	width: 500px;
+	height: auto;
+}
+
+	
